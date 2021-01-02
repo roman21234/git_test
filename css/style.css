@@ -1,0 +1,17 @@
+h1 {
+    text-decoration: underline;
+}
+.div {
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    margin: 50px;
+    border: 5px solid blue;
+    transition: .5s all;
+}
+.div:hover {
+    background-color: brown;
+    margin: 65px;
+}
